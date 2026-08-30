@@ -23,3 +23,6 @@
 | 21    | Easy Digit Sum              | Kushal             | Completed         | Hard-medium | https://projecteuler.net/problem=294                                                            |
 | 22    | Finding Classroom           | Divyansh           | Completed         | Easy        | https://leetcode.com/problems/integer-to-roman/                                                 |
 | 23    | The Friendly Senior         | Divyansh           | Completed         | Hard        | https://leetcode.com/problems/candy/                                                            |
+| 24    | Seesaw Point                | Keerat             | Completed         | Easy        | https://leetcode.com/problems/find-pivot-index/description/                                     |
+| 25    | No Repeats Allowed          | Keerat             | Completed         | Medium      | https://leetcode.com/problems/longest-substring-without-repeating-characters/description/       |
+| 26    | Treasure Knapsack           | Keerat             | Completed         | Hard        | https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/                                       |
