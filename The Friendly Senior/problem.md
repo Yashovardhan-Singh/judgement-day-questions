@@ -1,13 +1,16 @@
 # Problem Statement
 
-At MIT Manipal, the Student Council is organizing a grand treat at the Student Plaza to appreciate students after mid-semester exams. There are `n` students standing in a line, each assigned a performance rating based on their academic and extra-curricular achievements.
+Kit is a friendly senior that you meet in MIT. He likes giving candies to freshers.
+He tasked you to solve a puzzle related to candy distribution. If your successful he promised to give you *"special"*  candies which only he can give. You being exicted about your friendly senior and out of respect decided to take on this challenge and prove yourself.
 
-The council wants to distribute candies to all `n` students subject to the following conditions:
+The problem is as follows:
+
+He wants to distribute candies to `n` students standing in a line, each assigned a rank based on their MET scorecard.
+He wants to distribute candies to all `n` students subject to the following conditions:
 1. Each student must receive at least 1 candy.
 2. Any student with a strictly higher rating than their immediate neighbor (left or right) must receive strictly more candies than that neighbor.
 
-Help the Student Council calculate the minimum total number of candies required to satisfy these rules.
-
+Help Kit calculate the minimum total number of candies required to satisfy these rules so that you can get the *"special candy"* from him.
 # Input Format
 
 - The first line contains an integer `n` representing the number of students.
