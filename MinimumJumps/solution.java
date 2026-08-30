@@ -1,18 +1,10 @@
-import java.io.*;
-import java.util.*;
+class Solution {
+    public int minimumJumps(int[] a) {
+        int n = a.length;
 
-public class Solution {
-    public static void main(String[] args) throws Exception {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-
-        int n = Integer.parseInt(br.readLine().trim());
-        StringTokenizer st = new StringTokenizer(br.readLine());
-
-        int[] a = new int[n];
-
-        for (int i = 0; i < n; i++) {
-            a[i] = Integer.parseInt(st.nextToken());
-        }
+        if (n == 1) 
+            return 0;
+        
 
         int jumps = 0;
         int currentEnd = 0;
@@ -22,21 +14,19 @@ public class Solution {
             farthest = Math.max(farthest, i + a[i]);
 
             if (i == currentEnd) {
-                if (farthest <= i) {
-                    System.out.println(-1);
-                    return;
-                }
+                if (farthest <= i) 
+                    return -1;
+                
 
                 jumps++;
                 currentEnd = farthest;
 
-                if (currentEnd >= n - 1) {
-                    System.out.println(jumps);
-                    return;
-                }
+                if (currentEnd >= n - 1) 
+                    return jumps;
+                
             }
         }
 
-        System.out.println(-1);
+        return -1;
     }
 }
