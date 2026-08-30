@@ -1,4 +1,4 @@
-# Coding Race
+# Triggering the tech head
 
 Kush and Ved are working together on a project consisting of n lines of code.
 
