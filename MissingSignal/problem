@@ -1,0 +1,60 @@
+# Missing Signal
+
+## Difficulty
+Easy
+
+## Problem Statement
+
+A communication device records signal IDs from `0` to `N`. Exactly one signal ID is missing from the recording, and every other ID appears exactly once.
+
+Given the `N` recorded IDs, find the missing signal ID.
+
+Your solution should run in `O(N)` time and use `O(1)` extra space.
+
+## Input Format
+
+- The first line contains `N`.
+- The second line contains `N` space-separated integers.
+
+## Output Format
+
+Print the missing signal ID.
+
+## Constraints
+
+- `1 <= N <= 100000`
+- `0 <= A[i] <= N`
+- All recorded IDs are distinct.
+
+## Test Case 1
+
+### Input
+```text
+5
+3 0 1 5 4
+```
+
+### Output
+```text
+2
+```
+
+## Test Case 2
+
+### Input
+```text
+4
+0 1 2 4
+```
+
+### Output
+```text
+3
+```
+
+## Inspiration
+
+Inspired by LeetCode 268, **Missing Number**:
+https://leetcode.com/problems/missing-number/
+
+This version changes the story and examples while retaining the core missing-value/XOR idea.
