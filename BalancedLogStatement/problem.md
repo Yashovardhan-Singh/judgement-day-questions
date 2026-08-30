@@ -48,12 +48,3 @@ The second line contains `n` space-separated integers representing the server lo
 ## Output Format
 
 Print the maximum length of a balanced continuous segment.
-
-## Inspiration
-
-Inspired by **LeetCode 525 — Contiguous Array**.
-
-Original problem:
-https://leetcode.com/problems/contiguous-array/
-
-The story, wording, examples, and presentation have been changed for this problem.
