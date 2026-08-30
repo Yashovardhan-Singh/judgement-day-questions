@@ -1,6 +1,6 @@
 # Problem Statement
 
-Divyansh is a professional dealer of speical _blue candies_. Today he encountered a weird customer, who gave him an array of size `n` with each index representing a certain amount of money.
+Divyansh is a professional dealer of speical _blue candies_ in MIT. Today he encountered a weird customer, who gave him an array of size `n` with each index representing a certain amount of money.
 
 He proposed a challenge for Divyansh that if he can find two indexes which sum up to the cost of the _special blue candies_ he would give him double the money, but if he failed Divyansh would have to give the candies to him for free.
 
