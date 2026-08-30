@@ -1,7 +1,5 @@
 # Seesaw Point
 
-**Difficulty:** Easy
-**Topics:** Arrays, Prefix Sums
 
 ## Problem Statement
 
