@@ -1,7 +1,5 @@
 # No Repeats Allowed
 
-**Difficulty:** Medium
-**Topics:** Strings, Sliding Window, Two Pointers
 
 ## Problem Statement
 
