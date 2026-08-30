@@ -2,7 +2,7 @@ Divyansh is a professional dealer of speical _blue candies_. Today he encountere
 
 He proposed a challenge for Divyansh that if he can find two indexes which sum up to the cost of the _special blue candies_ he would give him double the money, but if he failed Divyansh would have to give the candies to him for free.
 
-He assured Divyansh that he can always find two such indexs.
+He assured Divyansh that he can always find two such indexes.
 
 Your goal is to help Divyansh find, two such indexes.
 
@@ -18,7 +18,7 @@ The second line contains `n` positive integers representing the cash at that ind
 
 # Output
 
-Print the index `ai` and `aj` with space seperation where `ai < aj`
+Print the index `i` and `j` with space seperation where `i < j`
 
 # Examples
 
