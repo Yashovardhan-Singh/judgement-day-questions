@@ -14,7 +14,7 @@
 | 12 | Balanced Log Statement | Purvi Sonthalia | Completed | Medium | https://leetcode.com/problems/contiguous-array/description/ |
 | 13 | Missing Jumps | Purvi Sonthalia | Completed | Hard | https://leetcode.com/problems/jump-game-ii/description/ |
 | 14 | SaveOrion-9 | Divyanshu | Completed | Easy | https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/ |
-| 15 | VaultOfModularHarmony | Divyanshu | Completed | Medium | https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/ |
+| 15 | VaultOfModularHarmony | Divyanshu | Completed | Medium | https://leetcode.com/problems/subarray-sums-divisible-by-k/ |
 | 16 | MultiverseStreams | Divyanshu | Completed | Hard | https://leetcode.com/problems/merge-k-sorted-lists/ |
 | 17 |  |  |  |  |  |
 | 18 |  |  |  |  |  |
