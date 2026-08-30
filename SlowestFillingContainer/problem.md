@@ -27,7 +27,9 @@ Find the maximum filling time among all possible containers.
 
 ## Input
 
-You are given an integer array `height`.
+The first line contains an integer `n`, the number of walls.
+
+The second line contains `n` space-separated integers representing the array `height`.
 
 ## Output
 
