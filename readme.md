@@ -11,8 +11,8 @@
 | 9 | Jzzhu and Sequences | Sridhar D | Completed | Hard | https://codeforces.com/problemset/problem/450/B |
 | 10 | Maximum Collinear Satelites | Amarnath K | Testcases Pending | Medium-Hard | https://leetcode.com/problems/max-points-on-a-line/description/ |
 | 11 | Missing Signal | Purvi Sonthalia | Completed | Easy | https://leetcode.com/problems/missing-number/description/ |
-| 12 |  |  |  |  |  |
-| 13 |  |  |  |  |  |
+| 12 | Balanced Log Statement | Purvi Sonthalia | Completed | Medium | https://leetcode.com/problems/contiguous-array/description/ |
+| 13 | Missing Jumps | Purvi Sonthalia | Completed | Hard | https://leetcode.com/problems/jump-game-ii/description/ |
 | 14 |  |  |  |  |  |
 | 15 |  |  |  |  |  |
 | 16 |  |  |  |  |  |
