@@ -22,3 +22,4 @@
 | 20    | Triggering The Tech Head    | Kushal             | Completed         | Easy        |                                                                                                 |
 | 21    | Easy Digit Sum              | Kushal             | Completed         | Hard-medium | https://projecteuler.net/problem=294                                                            |
 | 22    | Finding Classroom           | Divyansh           | Completed         | Easy        | https://leetcode.com/problems/integer-to-roman/                                                 |
+| 23    | Candy Distribution          | Ashmit             | Completed         | Hard        | https://leetcode.com/problems/candy/                                                            |
