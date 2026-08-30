@@ -1,5 +1,15 @@
-long long slowest_filling_container(vector<int>& height) {
-    int n = height.size();
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int n;
+    cin >> n;
+
+    vector<int> height(n);
+    for (int i = 0; i < n; i++) {
+        cin >> height[i];
+    }
+
     int funnel = (n - 1) / 2;
 
     int left = 0;
@@ -28,5 +38,7 @@ long long slowest_filling_container(vector<int>& height) {
         }
     }
 
-    return answer;
+    cout << answer << '\n';
+
+    return 0;
 }
