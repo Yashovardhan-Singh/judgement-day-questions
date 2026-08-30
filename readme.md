@@ -10,7 +10,7 @@
 | 8 | Two Bags of Potatoes | Sridhar D | Completed | Medium | https://codeforces.com/problemset/problem/239/A |
 | 9 | Jzzhu and Sequences | Sridhar D | Completed | Hard | https://codeforces.com/problemset/problem/450/B |
 | 10 | Maximum Collinear Satelites | Amarnath K | Testcases Pending | Medium-Hard | https://leetcode.com/problems/max-points-on-a-line/description/ |
-| 11 |  |  |  |  |  |
+| 11 | Missing Signal | Purvi Sonthalia | Completed | Easy | https://leetcode.com/problems/missing-number/description/ |
 | 12 |  |  |  |  |  |
 | 13 |  |  |  |  |  |
 | 14 |  |  |  |  |  |
