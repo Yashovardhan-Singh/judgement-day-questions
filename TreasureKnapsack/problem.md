@@ -8,7 +8,7 @@ Amara has discovered an old shipwreck with `N` pieces of treasure scattered
 across the seabed. The `i`-th piece has a weight `w[i]` and a value `v[i]`.
 She has a single knapsack that can carry a total weight of at most `W`, and
 for each piece of treasure she must decide whether to take it whole or leave
-it behind — treasure cannot be broken into pieces, and each piece can be
+it behind treasure cannot be broken into pieces, and each piece can be
 taken at most once.
 
 Help Amara choose which pieces to take so that the total weight does not
