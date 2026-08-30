@@ -16,8 +16,10 @@
 | 14    | SaveOrion-9                 | Divyanshu          | Completed         | Easy        | https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/                            |
 | 15    | VaultOfModularHarmony       | Divyanshu          | Completed         | Medium      | https://leetcode.com/problems/subarray-sums-divisible-by-k/                                     |
 | 16    | MultiverseStreams           | Divyanshu          | Completed         | Hard        | https://leetcode.com/problems/merge-k-sorted-lists/                                             |
-| 17    | WhichOneToBuy?              | Kushal             | Completed         | Medium        | https://www.codechef.com/practice/course/1-star-difficulty-problems/DIFF1200/problems/LAPTOPREC |
+| 17    | WhichOneToBuy?              | Kushal             | Completed         | Medium      | https://www.codechef.com/practice/course/1-star-difficulty-problems/DIFF1200/problems/LAPTOPREC |
 | 18    | The Candy Seller            | Ashmit             | Completed         | Easy        | https://leetcode.com/problems/two-sum/description/                                              |
 | 19    | Fancy Dress Competition     | Ashmit             | Completed         | Medium      | https://leetcode.com/problems/maximum-sum-circular-subarray/description/                        |
-| 20    |  Triggering The Tech Head      |    Kushal                |      Completed             | Easy            |                                                                                                 |
-| 21    | Easy Digit Sum     | Kushal             | Completed         | Hard-medium     | https://projecteuler.net/problem=294                        |
+| 20    | Triggering The Tech Head    | Kushal             | Completed         | Easy        |                                                                                                 |
+| 21    | Easy Digit Sum              | Kushal             | Completed         | Hard-medium | https://projecteuler.net/problem=294                                                            |
+
+| 22 | Finding Classroom | Divyansh | Completed | Easy | https://leetcode.com/problems/integer-to-roman/
