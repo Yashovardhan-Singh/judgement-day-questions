@@ -1,18 +1,20 @@
-# Missing Signal — Easy
+# Missing Signal
 
-This folder contains a standalone competitive-programming problem.
+**Difficulty:** Easy  
+**Concept:** XOR / Arrays
+
+Find the one missing ID from the range `0` to `n`.
 
 ### Files
-- `problem.md` — problem statement and inspiration
-- `solution.java` — Java reference solution
-- `input.txt` — sample input
-- `output.txt` — expected output
 
-### Approach
-Use XOR. Every number from `0` to `N` and every recorded number cancels with its identical copy, leaving only the missing number.
+- `problem.md` — Problem statement
+- `solution.java` — Java solution
+- `input` — Sample input
+- `output` — Expected output
 
-### Complexity
-- Time: `O(N)`
-- Extra space: `O(1)`
+### Inspiration
 
-The problem is inspired by LeetCode 268 but is rewritten with a different setting, wording, and examples.
+LeetCode 268 — Missing Number:
+https://leetcode.com/problems/missing-number/
+
+The problem has been rewritten and adapted rather than copied verbatim.
