@@ -65,12 +65,3 @@ The second line contains `n` space-separated integers representing the maximum j
 Print the minimum number of jumps needed to reach checkpoint `n-1`.
 
 Print `-1` if the destination is unreachable.
-
-## Inspiration
-
-Inspired by **LeetCode 45 — Jump Game II**.
-
-Original problem:
-https://leetcode.com/problems/jump-game-ii/
-
-The setting, wording, examples, and explicit unreachable case have been changed for this problem.
