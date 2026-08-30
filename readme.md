@@ -18,5 +18,5 @@
 | 16    | MultiverseStreams           | Divyanshu          | Completed         | Hard        | https://leetcode.com/problems/merge-k-sorted-lists/                                             |
 | 17    | WhichOneToBuy?              | Kushal             | Completed         | Easy        | https://www.codechef.com/practice/course/1-star-difficulty-problems/DIFF1200/problems/LAPTOPREC |
 | 18    | The Candy Seller            | Ashmit             | Completed         | Easy        | https://leetcode.com/problems/two-sum/description/                                              |
-| 19    |                             |                    |                   |             |                                                                                                 |
+| 19    | Fancy Dress Competition     | Ashmit             | Completed         | Medium      | https://leetcode.com/problems/maximum-sum-circular-subarray/description/                        |
 | 20    |                             |                    |                   |             |                                                                                                 |
