@@ -5,7 +5,7 @@
 | 3 | Wordle | Vedant Agrawal | Completed | Medium | https://www.codechef.com/practice/course/logical-problems/DIFF1000/problems/WORDLE |
 | 4 | MoEngage Decks | Vedant Agrawal | Completed | Hard | https://www.codechef.com/practice/course/1-star-difficulty-problems/DIFF1400/problems/FUNHAND |
 | 5 | Slowest Filling Container | Amarnath K | Testcases Pending | Medium | https://leetcode.com/problems/container-with-most-water/description/ |
-| 6 | Max Roman Sub | Amarnath K | Testcases Pending | Easy-Medium | https://leetcode.com/problems/roman-to-integer/description/ |
+| 6 | Max Roman Sub | Amarnath K | Completed | Easy-Medium | https://leetcode.com/problems/roman-to-integer/description/ |
 | 7 | Beautiful Year | Sridhar D | Completed | Easy | https://codeforces.com/problemset/problem/271/A |
 | 8 | Two Bags of Potatoes | Sridhar D | Completed | Medium | https://codeforces.com/problemset/problem/239/A |
 | 9 | Jzzhu and Sequences | Sridhar D | Completed | Hard | https://codeforces.com/problemset/problem/450/B |

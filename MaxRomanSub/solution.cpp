@@ -21,27 +21,19 @@ int main() {
         return 0;
     };
 
-    long long ans = LLONG_MIN;
-    long long current = 0;
+    long long bestEnding = value(s[0]);
+    long long answer = bestEnding;
 
-    for (int i = 0; i < (int)s.size(); ++i) {
-        long long contribution;
+    for (int i = 1; i < (int)s.size(); ++i) {
+        long long prev = value(s[i - 1]);
+        long long curr = value(s[i]);
+        long long contribution = (prev < curr) ? -prev : prev;
+        bestEnding = max(curr, bestEnding - prev + contribution + curr);
 
-        if (i == 0) {
-            contribution = value(s[i]);
-        } else {
-            contribution = (value(s[i - 1]) < value(s[i]))
-                         ? -value(s[i - 1])
-                         : value(s[i - 1]);
-        }
-
-        // Best value of a substring ending at i.
-        current = max(value(s[i]), current + contribution);
-
-        ans = max(ans, current);
+        answer = max(answer, bestEnding);
     }
 
-    cout << ans << '\n';
+    cout << answer << '\n';
 
     return 0;
 }
