@@ -45,11 +45,3 @@ The second line contains `n` space-separated integers representing the recorded 
 
 Print the missing signal ID.
 
-## Inspiration
-
-Inspired by **LeetCode 268 — Missing Number**.
-
-Original problem:
-https://leetcode.com/problems/missing-number/
-
-The setting, wording, examples, and presentation have been changed for this problem.
