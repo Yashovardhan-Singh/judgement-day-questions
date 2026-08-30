@@ -16,7 +16,7 @@
 | 14 | SaveOrion-9 | Divyanshu | Completed | Easy | https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/ |
 | 15 | VaultOfModularHarmony | Divyanshu | Completed | Medium | https://leetcode.com/problems/subarray-sums-divisible-by-k/ |
 | 16 | MultiverseStreams | Divyanshu | Completed | Hard | https://leetcode.com/problems/merge-k-sorted-lists/ |
-| 17 |  |  |  |  |  |
+| 17 | WhichOneToBuy?  | Kushal  | Completed  | Easy  | https://www.codechef.com/practice/course/1-star-difficulty-problems/DIFF1200/problems/LAPTOPREC  |
 | 18 |  |  |  |  |  |
 | 19 |  |  |  |  |  |
 | 20 |  |  |  |  |  |
