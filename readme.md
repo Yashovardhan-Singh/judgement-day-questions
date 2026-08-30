@@ -20,3 +20,4 @@
 | 18    | The Candy Seller            | Ashmit             | Completed         | Easy        | https://leetcode.com/problems/two-sum/description/                                              |
 | 19    | Fancy Dress Competition     | Ashmit             | Completed         | Medium      | https://leetcode.com/problems/maximum-sum-circular-subarray/description/                        |
 | 20    |  Triggering The Tech Head      |    Kushal                |      Completed             | Easy            |                                                                                                 |
+| 21    | Easy Digit Sum     | Kushal             | Completed         | Hard-medium     | https://projecteuler.net/problem=294                        |
