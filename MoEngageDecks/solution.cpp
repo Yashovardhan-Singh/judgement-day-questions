@@ -1,6 +1,4 @@
-#include <stdio.h>
-#include <iostream>
-#include <stdlib.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 const int MAXV = 100005;
@@ -44,7 +42,7 @@ int main() {
                 dpPrev[idx] = dpCurr[idx];
                 dpCurr[idx] = 0;
             }
-            prevTouched = move(currTouched);
+            prevTouched = std::move(currTouched);
         }
         for (int idx : prevTouched) dpPrev[idx] = 0;
         printf("%d\n", ans);
