@@ -6,9 +6,9 @@
 | 4 | MoEngage Decks | Vedant Agrawal | Testcases Pending | Hard | https://www.codechef.com/practice/course/1-star-difficulty-problems/DIFF1400/problems/FUNHAND |
 | 5 | SlowestFillingContainer | Amarnath K | Testcases Pending | Medium | https://leetcode.com/problems/container-with-most-water/description/ |
 | 6 | MaxRomanSub | Amarnath K | Testcases Pending | Easy-Medium | https://leetcode.com/problems/roman-to-integer/description/ |
-| 7 |  |  |  |  |  |
-| 8 |  |  |  |  |  |
-| 9 |  |  |  |  |  |
+| 7 | Beautiful Year | Sridhar | Testcases Pending | Easy | https://codeforces.com/problemset/problem/271/A |
+| 8 | Two Bags of Potatoes | Sridhar | Testcases Pending | Medium | https://codeforces.com/problemset/problem/239/A |
+| 9 | Jzzhu and Sequences | Sridhar | Testcases Pending | Hard | https://codeforces.com/problemset/problem/450/B |
 | 10 |  |  |  |  |  |
 | 11 |  |  |  |  |  |
 | 12 |  |  |  |  |  |
