@@ -8,7 +8,7 @@ The problem is as follows:
 He wants to distribute candies to `n` students standing in a line, each assigned a rank based on their MET scorecard.
 He wants to distribute candies to all `n` students subject to the following conditions:
 1. Each student must receive at least 1 candy.
-2. Any student with a strictly higher rating than their immediate neighbor (left or right) must receive strictly more candies than that neighbor.
+2. Any student with a strictly higher rank than their immediate neighbor (left or right) must receive strictly more candies than that neighbor.
 
 Help Kit calculate the minimum total number of candies required to satisfy these rules so that you can get the *"special candy"* from him.
 # Input Format
