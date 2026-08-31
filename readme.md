@@ -1,28 +1,20 @@
 | Q. No | Q. Name                     | Made By            | Status            | Q Type      | Q Inspiration (if any)                                                                          |
 | ----- | --------------------------- | ------------------ | ----------------- | ----------- | ----------------------------------------------------------------------------------------------- |
-| 1     | Can't Count                 | Yashovardhan Singh | Testcases Pending | Easy        | https://www.codewars.com/kata/528a0762f51e7a4f1800072a                                          |
-| 2     | Degree of Derivative        | Vedant Agrawal     | Completed         | Easy        | https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DPOLY?tab=statement  |
-| 3     | Wordle                      | Vedant Agrawal     | Completed         | Medium      | https://www.codechef.com/practice/course/logical-problems/DIFF1000/problems/WORDLE              |
-| 4     | MoEngage Decks              | Vedant Agrawal     | Completed         | Hard        | https://www.codechef.com/practice/course/1-star-difficulty-problems/DIFF1400/problems/FUNHAND   |
-| 5     | Slowest Filling Container   | Amarnath K         | Completed         | Medium      | https://leetcode.com/problems/container-with-most-water/description/                            |
-| 6     | Max Roman Sub               | Amarnath K         | Completed         | Easy-Medium | https://leetcode.com/problems/roman-to-integer/description/                                     |
-| 7     | Beautiful Year              | Sridhar D          | Completed         | Easy        | https://codeforces.com/problemset/problem/271/A                                                 |
-| 8     | Two Bags of Potatoes        | Sridhar D          | Completed         | Medium      | https://codeforces.com/problemset/problem/239/A                                                 |
-| 9     | Jzzhu and Sequences         | Sridhar D          | Completed         | Hard        | https://codeforces.com/problemset/problem/450/B                                                 |
-| 10    | Maximum Collinear Satelites | Amarnath K         | Completed         | Medium-Hard | https://leetcode.com/problems/max-points-on-a-line/description/                                 |
-| 11    | Missing Signal              | Purvi Sonthalia    | Completed         | Easy        | https://leetcode.com/problems/missing-number/description/                                       |
-| 12    | Balanced Log Statement      | Purvi Sonthalia    | Completed         | Medium      | https://leetcode.com/problems/contiguous-array/description/                                     |
-| 13    | Minimum Jumps               | Purvi Sonthalia    | Completed         | Hard        | https://leetcode.com/problems/jump-game-ii/description/                                         |
-| 14    | SaveOrion-9                 | Divyanshu          | Completed         | Easy        | https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/                            |
-| 15    | VaultOfModularHarmony       | Divyanshu          | Completed         | Medium      | https://leetcode.com/problems/subarray-sums-divisible-by-k/                                     |
-| 16    | MultiverseStreams           | Divyanshu          | Completed         | Hard        | https://leetcode.com/problems/merge-k-sorted-lists/                                             |
-| 17    | WhichOneToBuy?              | Kushal             | Completed         | Medium      | https://www.codechef.com/practice/course/1-star-difficulty-problems/DIFF1200/problems/LAPTOPREC |
-| 18    | The Candy Seller            | Ashmit             | Completed         | Easy        | https://leetcode.com/problems/two-sum/description/                                              |
-| 19    | Fancy Dress Competition     | Ashmit             | Completed         | Medium      | https://leetcode.com/problems/maximum-sum-circular-subarray/description/                        |
-| 20    | Triggering The Tech Head    | Kushal             | Completed         | Easy        |                                                                                                 |
-| 21    | Easy Digit Sum              | Kushal             | Completed         | Hard-medium | https://projecteuler.net/problem=294                                                            |
-| 22    | Finding Classroom           | Divyansh           | Completed         | Easy        | https://leetcode.com/problems/integer-to-roman/                                                 |
-| 23    | The Friendly Senior         | Divyansh           | Completed         | Hard        | https://leetcode.com/problems/candy/                                                            |
-| 24    | Seesaw Point                | Keerat             | Completed         | Easy        | https://leetcode.com/problems/find-pivot-index/description/                                     |
-| 25    | No Repeats Allowed          | Keerat             | Completed         | Medium      | https://leetcode.com/problems/longest-substring-without-repeating-characters/description/       |
-| 26    | Treasure Knapsack           | Keerat             | Completed         | Hard        | https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/                                       |
+| 1     | Degree of Derivative        | Vedant Agrawal     | Completed         | Easy        | https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DPOLY?tab=statement  |
+| 2     | Wordle                      | Vedant Agrawal     | Completed         | Medium      | https://www.codechef.com/practice/course/logical-problems/DIFF1000/problems/WORDLE              |
+| 3     | MoEngage Decks              | Vedant Agrawal     | Completed         | Hard        | https://www.codechef.com/practice/course/1-star-difficulty-problems/DIFF1400/problems/FUNHAND   |
+| 4     | Slowest Filling Container   | Amarnath K         | Completed         | Medium      | https://leetcode.com/problems/container-with-most-water/description/                            |
+| 5     | Max Roman Sub               | Amarnath K         | Completed         | Easy-Medium | https://leetcode.com/problems/roman-to-integer/description/                                     |
+| 6     | Beautiful Year              | Sridhar D          | Completed         | Easy        | https://codeforces.com/problemset/problem/271/A                                                 |
+| 7     | Two Bags of Potatoes        | Sridhar D          | Completed         | Medium      | https://codeforces.com/problemset/problem/239/A                                                 |
+| 8     | Jzzhu and Sequences         | Sridhar D          | Completed         | Hard        | https://codeforces.com/problemset/problem/450/B                                                 |
+| 9    | Missing Signal              | Purvi Sonthalia    | Completed         | Easy        | https://leetcode.com/problems/missing-number/description/                                       |
+| 10    | Minimum Jumps               | Purvi Sonthalia    | Completed         | Hard        | https://leetcode.com/problems/jump-game-ii/description/                                         |
+| 11    | SaveOrion-9                 | Divyanshu          | Completed         | Easy        | https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/                            |
+| 12    | VaultOfModularHarmony       | Divyanshu          | Completed         | Medium      | https://leetcode.com/problems/subarray-sums-divisible-by-k/                                     |
+| 13    | MultiverseStreams           | Divyanshu          | Completed         | Hard        | https://leetcode.com/problems/merge-k-sorted-lists/                                             |
+| 14    | WhichOneToBuy?              | Kushal             | Completed         | Medium      | https://www.codechef.com/practice/course/1-star-difficulty-problems/DIFF1200/problems/LAPTOPREC |
+| 15    | Triggering The Tech Head    | Kushal             | Completed         | Easy        |                                                                                                 |
+| 16    | Easy Digit Sum              | Kushal             | Completed         | Hard-medium | https://projecteuler.net/problem=294                                                            |
+| 17    | The Friendly Senior         | Divyansh           | Completed         | Hard        | https://leetcode.com/problems/candy/                                                            |
+| 18    | Treasure Knapsack           | Keerat             | Completed         | Hard        | https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/                                       |
