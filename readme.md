@@ -12,7 +12,7 @@
 | 10    | Maximum Collinear Satelites | Amarnath K         | Completed         | Medium-Hard | https://leetcode.com/problems/max-points-on-a-line/description/                                 |
 | 11    | Missing Signal              | Purvi Sonthalia    | Completed         | Easy        | https://leetcode.com/problems/missing-number/description/                                       |
 | 12    | Balanced Log Statement      | Purvi Sonthalia    | Completed         | Medium      | https://leetcode.com/problems/contiguous-array/description/                                     |
-| 13    | Missing Jumps               | Purvi Sonthalia    | Completed         | Hard        | https://leetcode.com/problems/jump-game-ii/description/                                         |
+| 13    | Minimum Jumps               | Purvi Sonthalia    | Completed         | Hard        | https://leetcode.com/problems/jump-game-ii/description/                                         |
 | 14    | SaveOrion-9                 | Divyanshu          | Completed         | Easy        | https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/                            |
 | 15    | VaultOfModularHarmony       | Divyanshu          | Completed         | Medium      | https://leetcode.com/problems/subarray-sums-divisible-by-k/                                     |
 | 16    | MultiverseStreams           | Divyanshu          | Completed         | Hard        | https://leetcode.com/problems/merge-k-sorted-lists/                                             |
