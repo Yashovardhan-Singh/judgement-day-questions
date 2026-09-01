@@ -1,7 +1,0 @@
-3
-aabbc
-aaccc
-level
-lever
-apple
-apple
